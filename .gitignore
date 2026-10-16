@@ -1,2 +1,7 @@
 out/
 *.log
+
+# Build logs
+*.log
+build.log
+*.swp

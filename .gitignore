@@ -4,3 +4,4 @@ out/
 # Build logs
 *.log
 build.log
+*.swp
